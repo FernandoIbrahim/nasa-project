@@ -8,7 +8,7 @@ O projeto foi desenvolvido em Node junto a framework Express.
 
 ## Execução
 
-Para a execução do projeto por completo vá no console no diretório da pasta raiz e execute o seguinte comando:
+Para executar o projeto por completo, vá para o diretório raiz no console e execute o seguinte comando:
 
 ``` cmd
 npm run deploy
