@@ -3,7 +3,7 @@ Projeto está sendo implementado durante o curso de Node da plataforma ZeroToMas
 
 Durante o curso de node da ZTM somos solicitados a desenvolver uma solução para um site da "Nasa", a qual deseja gerenciar os lançamentos dos seus foguetes à exoplanetas. Nesse contexto a plataforma nos fornece o frontend e devemos implementar uma API para o mesmo.
 
-O projeto foi desenvolvido em Node junto a framework Express.
+O projeto foi desenvolvido em Node.js juntamente com a framework Express.
 
 
 ## Execução
@@ -20,7 +20,7 @@ Para a execução apenas do backend implementado por mim deve ser executado o se
 npm run server
 ```
 
-Após a execução dessas instruções a aplicação passa a rodar nas porta 8000 da máquina local e pode ser acessada no seguinte link ```http://localhost:8000```
+Após a execução dessas instruções, a aplicação estará rodando na porta 8000 da máquina local e pode ser acessada no seguinte link ```http://localhost:8000```
 
 ## Rotas
 
